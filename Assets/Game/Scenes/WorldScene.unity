@@ -219,7 +219,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
       propertyPath: m_Name
-      value: Kart (1)
+      value: Kart
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
       propertyPath: m_Materials.Array.data[0]
