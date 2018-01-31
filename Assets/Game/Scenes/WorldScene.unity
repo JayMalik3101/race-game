@@ -185,48 +185,40 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+    - target: {fileID: 4686446371820132, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
-      propertyPath: m_Name
-      value: Kart
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: ed8503898843a2740ae35aba6f36984a, type: 2}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+  m_ParentPrefab: {fileID: 100100000, guid: bd19b11fcc50cbe44bc85b12050edc18, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1829123164
 GameObject:
