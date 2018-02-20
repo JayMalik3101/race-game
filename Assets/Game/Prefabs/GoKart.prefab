@@ -9,18 +9,30 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
   m_RootGameObject: {fileID: 1945749006853230}
   m_IsPrefabParent: 1
 --- !u!1 &1945749006853230
+=======
+  m_RootGameObject: {fileID: 1258342791617512}
+  m_IsPrefabParent: 1
+--- !u!1 &1258342791617512
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
   - component: {fileID: 4083376509358440}
   - component: {fileID: 33192454117215828}
   - component: {fileID: 23383365000661152}
+=======
+  - component: {fileID: 4865741979258958}
+  - component: {fileID: 33896000925495866}
+  - component: {fileID: 23699433140229286}
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
   m_Layer: 0
   m_Name: GoKart
   m_TagString: Untagged
@@ -28,25 +40,42 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
 --- !u!4 &4083376509358440
+=======
+--- !u!4 &4865741979258958
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
   m_GameObject: {fileID: 1945749006853230}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+=======
+  m_GameObject: {fileID: 1258342791617512}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
 --- !u!23 &23383365000661152
+=======
+--- !u!23 &23699433140229286
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
   m_GameObject: {fileID: 1945749006853230}
+=======
+  m_GameObject: {fileID: 1258342791617512}
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -75,10 +104,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
 --- !u!33 &33192454117215828
+=======
+--- !u!33 &33896000925495866
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD:Assets/Game/Prefabs/GoKart.prefab
   m_GameObject: {fileID: 1945749006853230}
   m_Mesh: {fileID: 4300000, guid: 98f3ef499cd80044e854eda08dce8dea, type: 3}
+=======
+  m_GameObject: {fileID: 1258342791617512}
+  m_Mesh: {fileID: 4300006, guid: 0113186983f6c6a4795206e58253fd2c, type: 3}
+>>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Prefabs/Kart.prefab

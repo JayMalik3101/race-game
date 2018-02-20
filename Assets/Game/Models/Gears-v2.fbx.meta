@@ -1,30 +1,16 @@
 fileFormatVersion: 2
-guid: 8944ed5fc42980e4ab55012d8cfcaf19
-timeCreated: 1519066504
+guid: 27f17bc116df77b459c0e1a6b0267365
+timeCreated: 1517909446
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pCylinder21
-    100004: pCylinder3
     400000: //RootNode
-    400002: pCylinder21
-    400004: pCylinder3
     2100000: lambert1
     2300000: //RootNode
-    2300002: pCylinder21
     3300000: //RootNode
-<<<<<<< HEAD:Assets/Game/Scenes/track deel.fbx.meta
-    4300000: pCube1
-    9500000: //RootNode
-=======
-    3300002: pCylinder21
-    4300000: pCylinder9
-    4300002: pCone2
-    4300004: pCylinder16
-    4300006: pCylinder21
->>>>>>> a8af96bf1a7c3d9b2a160de53b495e244f22a4b1:Assets/Game/Models/Kart.fbx.meta
+    4300000: pCylinder30
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -99,7 +85,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
